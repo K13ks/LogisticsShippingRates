@@ -1,5 +1,3 @@
-# LogisticsShippingRates
-
 Please consaider the below factors while contributing
 
 Code Style:
